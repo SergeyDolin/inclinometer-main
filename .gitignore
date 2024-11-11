@@ -7,7 +7,8 @@ __pycache__/
 *.so
 
 catboost_info/
-untitled_project
+untitled_project/
+.vscode/
 # Distribution / packaging
 .Python
 build/
